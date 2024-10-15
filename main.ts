@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Mr. Coxall
- * Created on: Sep 2020
- * This program ...
+ * Created by: Francisco Rocco Allegri
+ * Created on: Oct 2020
+ * This program lights up some neopixels based on the light amount.
 */
 
-basic.showString('Hello, World!')
+input.lightLevel()
